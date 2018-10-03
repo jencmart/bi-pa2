@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/pa2_cv_03.dir/main.cpp.o CMakeFiles/pa2_cv_03.dir/fronta.cpp.o  -o pa2_cv_03 

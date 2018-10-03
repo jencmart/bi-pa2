@@ -1,0 +1,16 @@
+../examples/maps/ONE_BIG_ASS_MAP
+1000 //score
+1 //round
+0 //antRiser
+101 //kdo je na tahu...
+8   ///num of ant Hills
+f,20 
+p,20
+f,20
+e,20
+p,20
+p,20
+n,10
+e,20
+1    //num of commands
+5,32,35,48,112,110,5,0 ///rowFro,colFrom,rowTo,colTo,fromId,ToId,numWaiting,NumWalking

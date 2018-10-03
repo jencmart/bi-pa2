@@ -1,0 +1,27 @@
+==4184== Memcheck, a memory error detector
+==4184== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==4184== Using Valgrind-3.12.0 and LibVEX; rerun with -h for copyright info
+==4184== Command: ./AntWars
+==4184== 
+==4184== 
+==4184== Process terminating with default action of signal 1 (SIGHUP)
+==4184==    at 0x5C23410: __nanosleep_nocancel (in /usr/lib/libc-2.25.so)
+==4184==    by 0x5C4E053: usleep (in /usr/lib/libc-2.25.so)
+==4184==    by 0x40D524: Game::Loop() (game.cpp:85)
+==4184==    by 0x40764B: GameWrapper::run() (gameWrapper.h:109)
+==4184==    by 0x40295C: main (main.cpp:6)
+==4184== 
+==4184== HEAP SUMMARY:
+==4184==     in use at exit: 2,527,241 bytes in 4,587 blocks
+==4184==   total heap usage: 21,839 allocs, 17,252 frees, 3,293,648 bytes allocated
+==4184== 
+==4184== LEAK SUMMARY:
+==4184==    definitely lost: 32,816 bytes in 1 blocks
+==4184==    indirectly lost: 0 bytes in 0 blocks
+==4184==      possibly lost: 0 bytes in 0 blocks
+==4184==    still reachable: 2,494,425 bytes in 4,586 blocks
+==4184==         suppressed: 0 bytes in 0 blocks
+==4184== Rerun with --leak-check=full to see details of leaked memory
+==4184== 
+==4184== For counts of detected and suppressed errors, rerun with: -v
+==4184== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

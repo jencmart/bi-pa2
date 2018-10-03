@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/teoreticky.dir/main.cpp.o  -o teoreticky 

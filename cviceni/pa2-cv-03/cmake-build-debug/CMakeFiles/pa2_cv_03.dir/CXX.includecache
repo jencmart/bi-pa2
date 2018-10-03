@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/CLionProjects/pa2-cv-03/fronta.cpp
+cstdlib
+-
+iostream
+-
+fronta.h
+/home/jencmart/Dropbox/CLionProjects/pa2-cv-03/fronta.h
+
+/home/jencmart/Dropbox/CLionProjects/pa2-cv-03/fronta.h
+
+/home/jencmart/Dropbox/CLionProjects/pa2-cv-03/main.cpp
+stdlib.h
+-
+iostream
+-
+fronta.h
+/home/jencmart/Dropbox/CLionProjects/pa2-cv-03/fronta.h
+

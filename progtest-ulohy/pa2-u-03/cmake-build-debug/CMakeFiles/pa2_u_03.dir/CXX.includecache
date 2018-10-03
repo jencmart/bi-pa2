@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/pa2/pa2-CLion/u/pa2-u-03/main.cpp
+cstring
+-
+cmath
+-
+cfloat
+-
+cassert
+-
+iostream
+-
+iomanip
+-
+sstream
+-
+complex
+-
+vector
+-
+algorithm
+-
+memory
+-
+string
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/e_learning_pretizeni.dir/main.cpp.o  -o e_learning_pretizeni 

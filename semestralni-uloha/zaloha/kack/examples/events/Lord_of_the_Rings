@@ -1,0 +1,155 @@
+rSo, you have to bring the ring to Mordor. Which way will you choose? You can go on route, which is a bit longer way, or through forrest.
+1
+oRoute
+1
+1
+So, you are on your way on route.
+oForrest
+10
+1
+So, you are on your way, walking through forrest.
+e
+pElixir
+2
+2
+fMassive Orc
+3
+8
+pAn ordinary Sword
+4
+4
+fMassive Orc
+5
+14
+pElixir
+6
+6
+pSandals
+7
+7
+fYoung Orc
+17
+17
+rYou have run away from him to forrest. Do you want to stay in forrest or go back on the road?
+1
+oGo on the road.
+9
+1
+You came back on the road.
+oStay in forrest.
+11
+1
+You continue your journey in the forrest.
+e
+pOrc Armor
+4
+4
+pStick
+11
+11
+fYoung Orc
+12
+12
+pLeather Armor
+13
+13
+pElixir
+14
+14
+rYou have came to an hidden Gate into a mountain. Will you enter it, or go on route, which surely leads to Mordor?
+1
+oEnter the gate.
+15
+1
+You have entered the mountain, but the gate has closed and there are only doors with some glowing text. There are riddles you have to solve to continue.
+oGo on route.
+6
+1
+So you are on the route, finally close to the Mordor.
+e
+rAll of my flowers except two are roses. All of my flowers except two are tulips. All of my flowers except two are daisies. How many flowers do I have?
+2
+o1
+0
+0
+
+o2
+0
+0
+
+o3
+16
+1
+
+o4
+0
+0
+
+o5
+0
+0
+
+o6
+0
+0
+
+o7
+0
+0
+
+o8
+0
+0
+
+o9
+0
+0
+
+e
+rJack is looking at Anne, but Anne is looking at George. Jack is married, but George is not. Is a married person looking at an unmarried person?
+1
+oYes
+17
+1
+Right! The door has opened.
+oNo
+0
+0
+Wrong answer. You can't get out now!
+oCannot be determined.
+0
+0
+Wrong answer. You can't get out now!
+e
+pElixir
+18
+18
+pSword Sting
+19
+19
+rYou finally see the Mount Doom. You can go there along mountains, where you can hide, but it's bit frequented, or go through a desolate plain, where you can be easily seen.
+1
+oAlong mountains.
+20
+1
+You are sneaking along mountains to the Mount Doom.
+oDesolate plain.
+22
+1
+You are going to the Mount Doom across the plain.
+e
+pElixir
+21
+21
+fSaruman
+24
+24
+pMithril
+23
+23
+fSauron
+24
+24
+rVictory!
+1
+e

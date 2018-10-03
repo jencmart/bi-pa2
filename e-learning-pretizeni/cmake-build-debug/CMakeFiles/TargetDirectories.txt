@@ -1,0 +1,3 @@
+/home/jencmart/Dropbox/development/CLionProjects/pa2/e-learning-pretizeni/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jencmart/Dropbox/development/CLionProjects/pa2/e-learning-pretizeni/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jencmart/Dropbox/development/CLionProjects/pa2/e-learning-pretizeni/cmake-build-debug/CMakeFiles/e_learning_pretizeni.dir

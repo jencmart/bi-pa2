@@ -1,0 +1,3 @@
+/home/jencmart/pa2/pa2-CLion/sem/pacman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jencmart/pa2/pa2-CLion/sem/pacman/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jencmart/pa2/pa2-CLion/sem/pacman/cmake-build-debug/CMakeFiles/pacman.dir

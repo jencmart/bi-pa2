@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Sklad_II_STL.dir/main.cpp.o  -o Sklad_II_STL 

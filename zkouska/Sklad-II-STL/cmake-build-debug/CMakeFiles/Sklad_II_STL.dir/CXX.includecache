@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/pa2/zkouska/Sklad-II-STL/main.cpp
+iostream
+-
+iomanip
+-
+sstream
+-
+string
+-
+vector
+-
+list
+-
+map
+-
+set
+-
+deque
+-
+algorithm
+-
+
